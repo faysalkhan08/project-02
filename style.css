@@ -1,0 +1,111 @@
+.plus{
+    font-weight: bold;
+    font-size: 25px;
+} 
+
+.plus-1{
+    color: red;
+    font-weight: bold;
+}
+
+.h3-4{
+    font-weight: 900 !important;
+    margin-top: 20px !important;
+}
+
+.p-1{
+    margin-top: 20px;
+}
+
+.home{
+    background-color: rgba(86, 159, 159, 0.724);
+}
+
+button{
+    width: 250px;
+    height: 50px;
+    border-radius: 10px !important;
+    border: none;
+    background-color: rgba(0, 255, 255, 0.613);
+    color: white;
+    margin-top: 20px !important;
+}
+
+.div-1{
+    color: white;
+    margin-top: 150px;
+}
+
+.arrow{
+    margin-top: 161px;
+    cursor: pointer;
+}
+
+.main-div-1{
+    background-size: cover;
+    background-image: url('https://images.unsplash.com/photo-1542317854-f9596ae570f7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8ZGFyayUyMGxhcHRvcHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60');
+}
+
+.main-div-2{
+    margin-top: 25px;
+}
+
+.hr-2{
+    background-color: yellow !important;
+    height: 5px !important;
+    width: 60px;
+    opacity: 1 !important;
+    border-radius: 5px;
+}
+
+.icons-1{
+    font-size: 35px !important;
+    color: rgba(0, 255, 255, 0.717);
+}
+
+.text-div-2{
+    margin-top: 20px !important;
+}
+
+.p-2{
+    margin-top: 20px !important;
+}
+
+.row-1{
+    color: white;
+    margin-top: 50px !important;
+}
+
+.cont{
+    width: 80%;
+    background-color: rgba(33, 121, 121, 0.708);
+    border: solid;
+    color: white;
+    margin-top: 30px;
+}
+
+.par-1{
+    margin-top: 30px;
+}
+
+.h3-1{
+    margin-top: 25px !important;
+}    
+
+.div{
+    background-color: rgba(33, 121, 121, 0.708);
+    border-left: solid;
+}
+
+.h3-2{
+    margin-top: 25px !important;
+}
+
+.hr-5{
+    background-color: white !important;
+    height: 4px !important;
+    width: 80px !important;
+    opacity: 1 !important;
+    border-radius: 5px;
+    margin-top: 75px !important;
+}
